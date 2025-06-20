@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-package java // import "github.com/sagernet/gomobile/bind/java"
+package java // import "github.com/baguettex/gomobile/bind/java"
 
 // #cgo LDFLAGS: -llog
 //
@@ -12,7 +12,7 @@ import "C"
 import (
 	"unsafe"
 
-	"github.com/sagernet/gomobile/internal/mobileinit"
+	"github.com/baguettex/gomobile/internal/mobileinit"
 )
 
 //export setContext

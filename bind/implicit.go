@@ -5,5 +5,5 @@
 package bind
 
 import (
-	_ "github.com/sagernet/gomobile/bind/seq"
+	_ "github.com/baguettex/gomobile/bind/seq"
 )

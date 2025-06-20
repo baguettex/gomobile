@@ -6,8 +6,8 @@
 //
 // See the documentation on the gobind command for usage details
 // and the list of currently supported types.
-// (http://godoc.org/github.com/sagernet/gomobile/cmd/gobind)
-package bind // import "github.com/sagernet/gomobile/bind"
+// (http://godoc.org/github.com/baguettex/gomobile/cmd/gobind)
+package bind // import "github.com/baguettex/gomobile/bind"
 
 // TODO(crawshaw): slice support
 // TODO(crawshaw): channel support

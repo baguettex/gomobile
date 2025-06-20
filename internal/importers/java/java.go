@@ -21,7 +21,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/sagernet/gomobile/internal/importers"
+	"github.com/baguettex/gomobile/internal/importers"
 )
 
 // Class is the bind representation of a Java class or

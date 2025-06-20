@@ -13,7 +13,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/sagernet/gomobile/internal/sdkpath"
+	"github.com/baguettex/gomobile/internal/sdkpath"
 )
 
 // General mobile build environment. Initialized by envInit.

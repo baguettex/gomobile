@@ -9,7 +9,7 @@ functions from Java and Objective-C.
 Typically gobind is not used directly. Instead, a binding is
 generated and automatically packaged for Android or iOS by
 `gomobile bind`. For more details on installing and using the gomobile
-tool, see https://github.com/sagernet/gomobile/cmd/gomobile.
+tool, see https://github.com/baguettex/gomobile/cmd/gomobile.
 
 # Binding Go
 
@@ -245,8 +245,8 @@ interface in Java, do not store an instance of Seq.Object inside it.
 
 # Further reading
 
-Examples can be found in http://github.com/sagernet/gomobile/example.
+Examples can be found in http://github.com/baguettex/gomobile/example.
 
 Design doc: http://golang.org/s/gobind
 */
-package main // import "github.com/sagernet/gomobile/cmd/gobind"
+package main // import "github.com/baguettex/gomobile/cmd/gobind"

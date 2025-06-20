@@ -11,7 +11,7 @@ import (
 	"math"
 	"strings"
 
-	"github.com/sagernet/gomobile/internal/importers/objc"
+	"github.com/baguettex/gomobile/internal/importers/objc"
 )
 
 // TODO(hyangah): handle method name conflicts.

@@ -17,7 +17,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/sagernet/gomobile/internal/sdkpath"
+	"github.com/baguettex/gomobile/internal/sdkpath"
 )
 
 var (
@@ -80,7 +80,7 @@ func runInit(cmd *command) error {
 	}()
 
 	// Make sure gobind is up to date.
-	if err := goInstall([]string{"github.com/sagernet/gomobile/cmd/gobind@latest"}, nil); err != nil {
+	if err := goInstall([]string{"github.com/baguettex/gomobile/cmd/gobind@latest"}, nil); err != nil {
 		return err
 	}
 

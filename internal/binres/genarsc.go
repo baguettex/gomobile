@@ -16,7 +16,7 @@ import (
 	"log"
 	"strconv"
 
-	"github.com/sagernet/gomobile/internal/binres"
+	"github.com/baguettex/gomobile/internal/binres"
 )
 
 const tmpl = `// Copyright 2016 The Go Authors.  All rights reserved.

@@ -5,7 +5,7 @@
 package main
 
 import (
-	_ "github.com/sagernet/gomobile/bind"
-	_ "github.com/sagernet/gomobile/bind/java"
-	_ "github.com/sagernet/gomobile/bind/objc"
+	_ "github.com/baguettex/gomobile/bind"
+	_ "github.com/baguettex/gomobile/bind/java"
+	_ "github.com/baguettex/gomobile/bind/objc"
 )
